@@ -1,0 +1,17 @@
+{
+	"title": "Beispiel-Denkmal",
+	"subtitle": "Untertitel des Beispiels",
+	"description": [
+		"Beschreibungen sind in Paragraphenn unterteilt.",
+		"Jeder Eintrag der Liste ist ein eigener Abstaz."
+	],
+	"media": [
+		{
+			"type": "image",
+			"src": "assets/images/denkmal.jpg",
+			"alt": "Bild eines Denkmals",
+			"caption": "Beschreibung des Denkmal-Bildes"
+		}
+	],
+	"footer": "Fußzeile für abschließende Informationen, weiterführende Links o.ä."
+}
